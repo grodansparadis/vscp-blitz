@@ -1,0 +1,8 @@
+Blitz
+=====
+
+
+2014-06-04 - AKHE Fixed dimensions.
+2014-06-04 - AKHE Ready for factory
+2014-06-04 - AKHE Rev D
+2014-04-11 - AKHE Changed crystal to 10MHz
